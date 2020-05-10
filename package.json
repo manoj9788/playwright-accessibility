@@ -1,0 +1,21 @@
+{
+  "name": "playwright-demo-project",
+  "version": "1.0.0",
+  "description": "A Simple boilerplate project to get started with Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "mocha",
+    "playwright",
+    "testing",
+    "automation"
+  ],
+  "author": "Manoj Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^7.1.2",
+    "playwright": "^1.0.1"
+  }
+}
