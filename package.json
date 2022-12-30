@@ -15,7 +15,7 @@
   "author": "Manoj Kumar",
   "license": "MIT",
   "dependencies": {
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "playwright": "^1.0.1"
   }
 }
